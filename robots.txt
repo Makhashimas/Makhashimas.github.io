@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://makhashimas.github.io/sitemap.xml
